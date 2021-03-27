@@ -4,8 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chimanh2862001/Lab3_Nodejs.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chimanh2862001/Lab3_Nodejs/issues"
+  },
+  "homepage": "https://github.com/chimanh2862001/Lab3_Nodejs#readme"
 }
