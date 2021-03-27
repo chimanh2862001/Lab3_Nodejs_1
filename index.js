@@ -63,4 +63,4 @@ if (url=='/'){
     res.end('404 Not Found');
 }
 
-}).listen(process.env.PORT|| '3000');
+}).listen(3000);
